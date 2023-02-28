@@ -1,0 +1,38 @@
+body
+{
+  font-family: 'Roboto Mono'; 
+  background: #8ef5cd; 
+}
+
+.header_div
+{
+    background: #b0f5b5;
+    color: #f07a1a;
+}
+
+.header_div p{
+    font-family: 'Title Wrap';
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Title wrap';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #b0f5b5;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    text-shadow:  5px 5px 5px rgb(147, 250, 197);
+}
